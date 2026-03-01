@@ -1,0 +1,48 @@
+export const plans = [
+  {
+    id: 1,
+    name: 'Basic',
+    speed: '40 Mbps',
+    monthly: 499,
+    quarterly: 1399,
+    yearly: 4999,
+    features: ['40 Mbps Speed', 'Unlimited Data', 'Free Router', 'Email Support'],
+    popular: false,
+    color: '#3b82f6',
+  },
+  {
+    id: 2,
+    name: 'Standard',
+    speed: '100 Mbps',
+    monthly: 699,
+    quarterly: 1899,
+    yearly: 6999,
+    features: ['100 Mbps Speed', 'Unlimited Data', 'Free Router', '24/7 Phone Support', 'Free Installation'],
+    popular: true,
+    color: '#00d4ff',
+  },
+  {
+    id: 3,
+    name: 'Premium',
+    speed: '200 Mbps',
+    monthly: 999,
+    quarterly: 2699,
+    yearly: 9999,
+    features: ['200 Mbps Speed', 'Unlimited Data', 'Premium Router', '24/7 Priority Support', 'Free Installation', 'Static IP'],
+    popular: false,
+    color: '#7c3aed',
+  },
+  {
+    id: 4,
+    name: 'Ultra',
+    speed: '500 Mbps',
+    monthly: 1499,
+    quarterly: 3999,
+    yearly: 14999,
+    features: ['500 Mbps Speed', 'Unlimited Data', 'Premium Wi-Fi 6 Router', '24/7 Dedicated Support', 'Free Installation', 'Static IP', 'OTT Bundle Included'],
+    popular: false,
+    color: '#f59e0b',
+  },
+];
+
+export const billingCycles = ['monthly', 'quarterly', 'yearly'];
