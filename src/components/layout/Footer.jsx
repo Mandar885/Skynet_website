@@ -33,7 +33,7 @@ export default function Footer() {
               </div>
             </div>
             <p className="text-sm text-[var(--text-secondary)] mb-4 leading-relaxed">
-              Providing lightning-fast fiber optic internet services to homes and businesses. Your trusted local ISP since 2020.
+              Providing lightning-fast fiber optic internet services to homes and businesses. Your trusted local ISP since 2016.
             </p>
             <div className="flex gap-3">
               {socials.map(social => (
@@ -75,18 +75,18 @@ export default function Footer() {
             <ul className="space-y-3">
               <li>
                 <a href="tel:+919876543210" className="flex items-center gap-3 text-sm text-[var(--text-secondary)] hover:text-[var(--color-primary)] transition-colors">
-                  <FaPhone size={14} /> +91 98765 43210
+                  <FaPhone size={14} /> +91 97669 78910
                 </a>
               </li>
               <li>
                 <a href="mailto:info@skynetinternet.com" className="flex items-center gap-3 text-sm text-[var(--text-secondary)] hover:text-[var(--color-primary)] transition-colors">
-                  <FaEnvelope size={14} /> info@skynetinternet.com
+                  <FaEnvelope size={14} /> skynet.bhusawal@gmail.com
                 </a>
               </li>
               <li>
                 <div className="flex items-start gap-3 text-sm text-[var(--text-secondary)]">
                   <FaMapMarkerAlt size={14} className="mt-0.5 shrink-0" />
-                  <span>123 Tech Park, Hinjewadi Phase 1, Pune, Maharashtra 411057</span>
+                  <span>Shop no. 12, Sardar Vallabhbhai Patel Complex, New Satara, Bhusawal, Jalgaon, Maharashtra 425201</span>
                 </div>
               </li>
             </ul>

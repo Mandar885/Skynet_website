@@ -8,11 +8,11 @@ export default function UtilityBar() {
         <div className="flex items-center gap-6">
           <a href="tel:+919876543210" className="flex items-center gap-2 text-[var(--text-secondary)] hover:text-[var(--color-primary)] transition-colors">
             <FaPhone size={12} />
-            <span>+91 98765 43210</span>
+            <span>+91 97669 78910</span>
           </a>
           <a href="mailto:info@skynetinternet.com" className="flex items-center gap-2 text-[var(--text-secondary)] hover:text-[var(--color-primary)] transition-colors">
             <FaEnvelope size={12} />
-            <span>info@skynetinternet.com</span>
+            <span>skynet.bhusawal@gmail.com</span>
           </a>
         </div>
         <div className="flex items-center gap-4">

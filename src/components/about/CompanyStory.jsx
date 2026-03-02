@@ -15,9 +15,9 @@ export default function CompanyStory() {
         <div className="max-w-3xl mx-auto mb-16">
           <motion.div initial={{ opacity: 0, y: 20 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true }} transition={{ duration: 0.6 }}>
             <p className="text-[var(--text-secondary)] leading-relaxed text-lg mb-4">
-              Founded in 2020, <strong className="text-[var(--text-primary)]">Skynet Internet Services</strong> began with a simple
+              Founded in 2015, <strong className="text-[var(--text-primary)]">Skynet Internet Services</strong> began with a simple
               mission — to provide fast, reliable, and affordable internet to our local community. What started as a small operation
-              serving a handful of neighborhoods has grown into a trusted ISP serving over 5,000 happy customers across Pune.
+              serving a handful of neighborhoods has grown into a trusted ISP serving over 3,000 happy customers across Bhusawal.
             </p>
             <p className="text-[var(--text-secondary)] leading-relaxed text-lg mb-4">
               We invested in cutting-edge fiber optic infrastructure from day one, ensuring our customers get the speeds they pay for —

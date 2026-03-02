@@ -1,23 +1,23 @@
 export const team = [
   {
     id: 1,
-    name: 'Rajesh Kumar',
+    name: 'Deepak Patil',
     role: 'Founder & CEO',
     quote: 'Our mission is to bridge the digital divide and bring world-class internet to every doorstep.',
-    initials: 'RK',
+    initials: 'DP',
   },
   {
     id: 2,
-    name: 'Suresh Patil',
-    role: 'Co-Founder & CTO',
+    name: 'Bhagwat Patil',
+    role: 'Co-Founder',
     quote: 'Technology should empower people. We build networks that connect communities and enable dreams.',
-    initials: 'SP',
+    initials: 'BKP',
   },
   {
     id: 3,
-    name: 'Manish Desai',
-    role: 'Co-Founder & COO',
+    name: 'Shekhar Patil',
+    role: 'Co-Founder',
     quote: 'Customer satisfaction is not just a goal, it is the foundation of everything we do at Skynet.',
-    initials: 'MD',
+    initials: 'SP',
   },
 ];
