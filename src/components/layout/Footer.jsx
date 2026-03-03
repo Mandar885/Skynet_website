@@ -16,7 +16,7 @@ const socials = [
   { icon: FaInstagram, href: '#', label: 'Instagram' },
   { icon: FaTwitter, href: '#', label: 'Twitter' },
   { icon: FaYoutube, href: '#', label: 'YouTube' },
-  { icon: FaLinkedin, href: '#', label: 'LinkedIn' },
+  { icon: FaLinkedin, href: '#', label: 'LinkedIn'  },
 ];
 
 export default function Footer() {
