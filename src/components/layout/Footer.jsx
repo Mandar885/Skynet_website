@@ -86,7 +86,7 @@ export default function Footer() {
               <li>
                 <div className="flex items-start gap-3 text-sm text-[var(--text-secondary)]">
                   <FaMapMarkerAlt size={14} className="mt-0.5 shrink-0" />
-                  <span>Shop no. 12, Sardar Vallabhbhai Patel Complex, New Satara, Bhusawal, Jalgaon, Maharashtra 425201</span>
+                  <span>Shop no. 12, Sardar Vallabhbhai Patel Complex, Bhusawal,Dist. Jalgaon, Maharashtra 425201</span>
                 </div>
               </li>
             </ul>

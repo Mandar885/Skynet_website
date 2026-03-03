@@ -5,10 +5,10 @@ import { useState } from 'react';
 import Button from '../components/ui/Button';
 
 const contactInfo = [
-  { icon: FaPhone, label: 'Phone', value: '+91 98765 43210', href: 'tel:+919876543210' },
-  { icon: FaWhatsapp, label: 'WhatsApp', value: '+91 98765 43210', href: 'https://wa.me/919876543210' },
-  { icon: FaEnvelope, label: 'Email', value: 'info@skynetinternet.com', href: 'mailto:info@skynetinternet.com' },
-  { icon: FaMapMarkerAlt, label: 'Address', value: '123 Tech Park, Hinjewadi Phase 1, Pune 411057', href: null },
+  { icon: FaPhone, label: 'Phone', value: '+91 98904 88782', href: 'tel:+919890488782' },
+  { icon: FaWhatsapp, label: 'WhatsApp', value: '+91 97669 78910', href: 'https://wa.me/919766978910' },
+  { icon: FaEnvelope, label: 'Email', value: 'skynet.bhusawal@gmail.com', href: 'mailto:skynet.bhusawal@gmail.com' },
+  { icon: FaMapMarkerAlt, label: 'Address', value: 'Shop no. 12, Sardar Vallabhbhai Patel Complex, Bhusawal, Dist. Jalgaon, Maharashtra 425201', href: null },
   { icon: FaClock, label: 'Hours', value: 'Mon-Sat: 9AM - 8PM, Sun: 10AM - 5PM', href: null },
 ];
 
