@@ -26,7 +26,7 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10">
           <div>
             <div className="flex items-center gap-3 mb-4">
-              <img src="/images/Scroll_bar/BgRemove_SkynetLogo_Generated.png" alt="Skynet" className="w-10 h-10 object-contain" />
+              <img src="public\images\Scroll_bar\SkynetLogo_noText - Edited.png" alt="Skynet" className="w-10 h-10 object-contain" />
               <div>
                 <h3 className="font-bold text-[var(--text-primary)]">Skynet</h3>
                 <p className="text-[10px] text-[var(--text-muted)] tracking-wider uppercase">Internet Services</p>
