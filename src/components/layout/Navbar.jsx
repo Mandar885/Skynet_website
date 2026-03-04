@@ -40,7 +40,7 @@ export default function Navbar({ onCheckAvailability }) {
       >
         <div className="container-custom flex items-center justify-between py-3">
           <Link to="/" className="flex items-center gap-3 shrink-0">
-            <img src="public\images\Scroll_bar\SkynetLogo_noText - Edited.png" alt="Skynet" className="w-10 h-10 object-contain" />
+            <img src="\images\Scroll_bar\SkynetLogo_noText - Edited.png" alt="Skynet" className="w-10 h-10 object-contain" />
             <div>
               <h1 className="text-lg font-bold text-[var(--text-primary)] leading-tight">Skynet</h1>
               <p className="text-[10px] text-[var(--text-muted)] leading-tight tracking-wider uppercase">Internet Services</p>
